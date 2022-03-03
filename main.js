@@ -1,2 +1,2 @@
-const {CheckIP} = require("./lib/src/root");
-module.exports = CheckIP();
+const { ipBlocker } = require("./lib/src/root");
+module.exports = ipBlocker();
